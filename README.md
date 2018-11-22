@@ -21,4 +21,4 @@
 
 ### &nbsp;&nbsp;&nbsp;1.1安装
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;提供一个教程吧,跟着教程一步一步来。 [![教程]](教程 "https://www.cnblogs.com/weigege/p/9237760.html")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;提供一个教程吧,跟着教程一步一步来。 [![教程]]("https://www.cnblogs.com/weigege/p/9237760.html")
