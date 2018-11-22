@@ -15,7 +15,7 @@
 
 ### &nbsp;&nbsp;&nbsp;1.3开始制作CentOS 6盘
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;比较简单(最好修改一下U盘的格式FAT32)，直接给个连接吧，按照教程步骤一步一步来。 [教程](本人比较懒 https://jingyan.baidu.com/article/49711c614d0971fa451b7c59.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;比较简单(最好修改一下U盘的格式FAT32)，直接给个连接吧，按照教程步骤一步一步来。 [教程](https://jingyan.baidu.com/article/49711c614d0971fa451b7c59.html)
 
 ## 2.centOS 6镜像的安装
 
